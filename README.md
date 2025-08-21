@@ -33,6 +33,8 @@ App Cliente – Carrito y Pedido
 <img width="273" height="591" alt="image" src="https://github.com/user-attachments/assets/1f1c7ec0-0cb1-4f33-8ab5-84d2623f7b41" />
 
 App Cliente – Historial de Pedidos
+
+
 <img width="267" height="585" alt="image" src="https://github.com/user-attachments/assets/ec794695-7a11-48b9-93af-449405711c63" />
 
 
